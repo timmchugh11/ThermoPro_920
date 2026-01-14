@@ -1,0 +1,9 @@
+{
+  "domain": "thermopro_tp920",
+  "name": "ThermoPro TP920",
+  "config_flow": true,
+  "iot_class": "local_polling",
+  "documentation": "https://github.com/timmchugh11/ThermoPro_920",
+  "codeowners": ["@timmchugh11", "@senoird"],
+  "version": "0.1.0"
+}

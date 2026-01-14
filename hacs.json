@@ -1,0 +1,6 @@
+{
+  "name": "ThermoPro TP920",
+  "content_in_root": false,
+  "domains": ["thermopro_tp920"],
+  "homeassistant": "2022.9.0"
+}
