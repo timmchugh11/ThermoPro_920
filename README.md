@@ -1,10 +1,6 @@
 # ThermoPro TP920 – Home Assistant Integration
 
 Home Assistant integration for the **ThermoPro TP920** Bluetooth thermometer.
-
-Based on the original work by **senoird**:  
-https://github.com/senoird/ThermoPro_920
-
 ---
 
 ## Features
@@ -51,12 +47,5 @@ During setup you can select:
 
 - **Probe 1** – Temperature
 - **Probe 2** – Temperature
-
----
-
-## Credits
-
-- Original protocol work: **senoird**  
-https://github.com/senoird/ThermoPro_920
 
 ---
